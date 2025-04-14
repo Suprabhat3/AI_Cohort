@@ -5,7 +5,7 @@ import json
 
 
 client = OpenAI(
-    api_key="AIzaSyAEYzqTJbunMkDp2MRImHAz0CaXlov8Nt8",
+    api_key="API_KEY",
     base_url="https://generativelanguage.googleapis.com/v1beta/openai/"
 )
 
